@@ -6,3 +6,8 @@ check and log
 - temperature
 - light level
 - soil moisture level
+
+graph
+- temp levels
+- light levels
+- soil mousture levels
