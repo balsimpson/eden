@@ -10,4 +10,4 @@ check and log
 graph
 - temp levels
 - light levels
-- soil mousture levels
+- soil moisture levels
